@@ -7,6 +7,6 @@ this is a simple website built only using html5, css3 & bootstrap 4 - Organic Fo
 CSS, HTML, Bootsrap, JS.
 
 
-![organic-food]()
+![organic-food](https://github.com/Av-code80/OrganicEating/blob/main/img/photo-7.jpg)
 
-[Access My Project]()
+[Access My Project](https://av-code80.github.io/OrganicEating/)
